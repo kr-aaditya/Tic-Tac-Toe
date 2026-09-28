@@ -25,10 +25,9 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 4. The first player to get three in a row wins.
 5. Click **Reset Game** to start again.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-[Play Tic-Tac-Toe](https://yourusername.github.io/tic-tac-toe/)
-
+[Play Tic-Tac-Toe](https://kr-aaditya.github.io/Tic-Tac-Toe/)
 
 ## 📂 Project Structure
 
@@ -38,3 +37,4 @@ tic-tac-toe/
 ├── style.css
 ├── app.js
 └── README.md
+```
